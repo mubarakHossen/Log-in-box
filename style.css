@@ -1,0 +1,62 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background: url(Background.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.log-in-box{
+    height: 420px;
+    width: 320px;
+    background-color: rgb(165, 103, 103);
+    margin-top: 10%;
+    margin-left: 35%;
+    padding-left:25px ;
+}
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    color: red;
+    border-radius: 50px;
+    margin-top: -20%;
+    margin-left: 30%;
+}
+h2{
+    margin: 0;
+    padding: 0 0 23px;
+    text-align: center;
+    font-size: 32px;
+}
+.log-in-box p{
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+.log-in-box input{
+    width: 80%;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.log-in-box button{
+    margin-bottom: 20px;
+    width: 40.5%;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.log-in-box a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.log-in-box a:hover{
+    color: white;
+}
+.log-in-box .button-one:hover {
+    color: white;
+    background-color: green;
+}
+.log-in-box .button-two:hover{
+    color: white;
+    background-color: red;
+}
